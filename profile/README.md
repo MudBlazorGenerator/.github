@@ -1,1 +1,2 @@
-##https://www.RADEndpoint.com
+#MudBlazor Generator
+https://www.RADEndpoint.com
